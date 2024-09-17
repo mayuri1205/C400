@@ -6,4 +6,4 @@ This project has following features:
 - Feature 2
 - Feature 3
 ----
-&copy;-mayuri gund, Mthree 2024
+&copy;-mayuri gund, mthree 2024
